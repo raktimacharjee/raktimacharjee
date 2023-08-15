@@ -1,15 +1,15 @@
-![MasterHead](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/4594396549873664/image/download/4760859734704128)
+![MasterHead](https://media.licdn.com/dms/image/C4D16AQHvlyWR0PlqgA/profile-displaybackgroundimage-shrink_350_1400/0/1662646550974?e=1697673600&v=beta&t=jm_3TzFeRJ77eTW8RdB5NaBJQf02heGQAY8oPRIiMWM)
 <h1 align="center">Hi 👋, I'm Raktim Acharjee</h1>
-<h3 align="center">Data Science, AI & ML Enthusiast. Passionate about unraveling the mysteries of Human Brain.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/machine-learning-4835199-4019934.mp4?f=webm">
+<h3 align="center">Data Science, AI & ML Enthusiast and passionate about unravelling the mysteries of Human Brain.</h3>
+<img align="right" alt="Coding" width="450" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raktimacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="raktimacharjee" /> </p>
 
-- 🔭 I’m currently working on **EEG-based Human Emotion Recognition for Brain-Computer Interface Applications**
+- 🔭 I’m currently working on **EEG-based Human Emotion Recognition for Brain-Computer Interface Applications.**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Generative AI and Large Language Models.**
 
-- 💬 Ask me about **Data Science, AI, Machine Learning, Deep Learning, Cognitive Neuroscience**
+- 💬 Ask me about **Data Science, Machine Learning, Deep Learning, Artificial Intelligence and Cognitive Neuroscience.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
