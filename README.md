@@ -1,18 +1,19 @@
+![MasterHead](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/4594396549873664/image/download/4760859734704128)
 <h1 align="center">Hi 👋, I'm Raktim Acharjee</h1>
-<h3 align="center">Data Science, ML & AI Enthusiast. Passionate about unraveling the mysteries of Human Brain.</h3>
+<h3 align="center">Data Science, AI & ML Enthusiast. Passionate about unraveling the mysteries of Human Brain.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/machine-learning-4835199-4019934.mp4?f=webm">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raktimacharjee&label=Profile%20views&color=0e75b6&style=flat" 
-alt="raktimacharjee" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raktimacharjee" alt="raktimacharjee" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raktimacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="raktimacharjee" /> </p>
 
 - 🔭 I’m currently working on **EEG-based Human Emotion Recognition for Brain-Computer Interface Applications**
 
 - 🌱 I’m currently learning **Generative AI**
 
+- 💬 Ask me about **Data Science, AI, Machine Learning, Deep Learning, Cognitive Neuroscience**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/raktimacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raktimacharjee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raktimacharjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raktimacharjee" height="30" width="40" /></a>
 </p>
 
@@ -24,4 +25,3 @@ alt="raktimacharjee" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raktimacharjee&show_icons=true&locale=en" alt="raktimacharjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raktimacharjee&" alt="raktimacharjee" /></p>
-
